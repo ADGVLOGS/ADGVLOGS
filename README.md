@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Android App Development
 - 💞️ I’m looking to collaborate on ... Machine Learning Data Science Projects
 - 📫 How to reach me ...
-- Instagram - @adgsenpai
+ 
 - Email - adgrules@hotmail.com
 - Phone Number - +27605224922
 
